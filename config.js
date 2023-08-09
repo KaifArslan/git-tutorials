@@ -1,0 +1,1 @@
+console.log('config adding version 2')
