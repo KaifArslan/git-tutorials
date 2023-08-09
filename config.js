@@ -1,1 +1,0 @@
-console.log('config adding version 3')
