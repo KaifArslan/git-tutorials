@@ -1,1 +1,1 @@
-console.log('config adding version 2')
+console.log('config adding version 3')
